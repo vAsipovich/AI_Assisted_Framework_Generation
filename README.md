@@ -60,3 +60,6 @@ tests/
 2. Add reusable component objects under `src/components`.
 3. Expose typed fixtures from `src/fixtures/testFixtures.ts`.
 4. Add end-to-end specs under `tests/e2e`.
+
+## AI-Assisted Refactoring & Upgrades
+After the previous step there is no need to Merge Repetitive Methods or Refactor Test Steps in the way it is described in the tasks of the module
